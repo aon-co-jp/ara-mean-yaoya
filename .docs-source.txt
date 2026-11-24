@@ -1,3 +1,3 @@
 source: aon-co-jp/ara-mean-yaoya
-commit: 333679af31e702b6ab0f16b07f7d3871cbc417dd
-updated: 2026-11-20T05:25:40Z
+commit: 265b49a31c4971a4795e5d99b7852c183962bd54
+updated: 2026-11-24T10:44:28Z

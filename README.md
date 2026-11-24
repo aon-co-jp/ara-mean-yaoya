@@ -1,3 +1,5 @@
+> Latest translations / 翻訳の最新版: [0-LATEST-TRANSLATIONS.md](0-LATEST-TRANSLATIONS.md)
+
 # ara-mean-yaoya
 
 ## API 方針: REST 全廃・gRPC / Connect へ (2026-11-04)
